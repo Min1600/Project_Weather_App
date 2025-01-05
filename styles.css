@@ -3,7 +3,8 @@
 }
 
 body{
-background-color: 	#FFFAFA
+    height: 100vh;
+    background: radial-gradient(#87CEEB, #9198e5);
 }
 
 #loading{
@@ -34,7 +35,7 @@ background-color: 	#FFFAFA
 }
 
 #btn{
-    background-color:#e09c89;
+    background-color:	#4682b4;
     border: none;
     border-radius: 5px;
     padding: 5px
